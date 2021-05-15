@@ -1,0 +1,8 @@
+
+{
+  "author_name": "NYCRecords AppDev",
+  "author_email": "appdev@records.nyc.gov",
+  "author_url": "https://github.com/nycrecords",
+  "module_name": "terraform-module-name",
+  "provider": "azurerm"
+}
